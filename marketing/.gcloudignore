@@ -1,0 +1,11 @@
+.git
+.gitignore
+.claude
+.claude-flow
+tests
+docs
+*.test.ts
+*.test.js
+*.md
+!package.json
+!tsconfig.json
